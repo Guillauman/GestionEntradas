@@ -1,0 +1,22 @@
+.cargarCSV{
+    width: 500px;
+    height: 300px;
+    margin:auto;
+    padding-top: 150px;
+    text-align: center;
+  
+}
+#form1{
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 50px;
+    box-shadow: 6px 6px 6px 6px #ff3333;
+}
+.buttonload {
+  background-color: lightblue; /* Green background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 24px; /* Some padding */
+  font-size: 16px; /* Set a font-size */
+  border-radius: 20px;
+}

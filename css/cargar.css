@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    padding: 0;
+}
+
+.entradas{
+    text-align: center;
+    width: 800px;
+    height: 300px;
+    margin: auto;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.entradas h2{
+    text-decoration: underline;
+}
